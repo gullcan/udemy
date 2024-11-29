@@ -1,15 +1,15 @@
 <template>
     <div>
-        <LayoutsHeader />
-        <LayoutsBillboard />
-        <LayoutsSkillsHub />
-        <LayoutsStudentsView />
-        <LayoutsTrendTopics />
-        <LayoutsTeachOnUdemy />
-        <LayoutsPartners />
-        <LayoutsUdemyBusiness />
-        <LayoutsUserStories />
-        <LayoutsFooter />
+        <ComponentsHeader />
+        <ComponentssBillboard />
+        <ComponentssSkillsHub />
+        <ComponentsStudentsView />
+        <ComponentssTrendTopics />
+        <ComponentssTeachOnUdemy />
+        <ComponentssPartners />
+        <ComponentssUdemyBusiness />
+        <ComponentssUserStories />
+        <ComponentssFooter />
     </div>
 </template>
 
